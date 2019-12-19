@@ -1,0 +1,9 @@
+.movie {
+    cursor:pointer;
+
+}
+
+.movie:hover {
+    color:tomato;
+    text-decoration:underline;
+}
